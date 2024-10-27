@@ -114,8 +114,8 @@ body{
     position: absolute;
     height: 2.5rem;
     width: 2.5rem;
-    border-top: .4rem solid #002e5f;
-    border-left: .4rem solid #002e5f;
+    border-top: .4rem solid #dc500f;
+    border-left: .4rem solid #dc500f;
 }
 
 .heading::before{
